@@ -1,0 +1,11 @@
+.listo{
+    color: green
+}
+
+.falta{
+    color: red;
+}
+
+.todoOK{
+    visibility: hidden;
+}
