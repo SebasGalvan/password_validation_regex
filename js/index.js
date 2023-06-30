@@ -1,3 +1,5 @@
+// Validador de contraseñas
+
 const in_password =  document.querySelector('#password')
 const  mayusculas =  document.querySelector('#mayusculas')
 const  minusculas =  document.querySelector('#minusculas')
